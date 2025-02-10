@@ -1,6 +1,6 @@
 # 🔐 Astrophile - Privacy Policy
 
-_Last updated: <%= (new Date).toISOString().split('T')[0] %>_
+_Last updated: 10-02-2025_
 
 ## 1. Informasi yang Dikumpulkan
 
