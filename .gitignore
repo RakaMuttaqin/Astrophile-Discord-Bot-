@@ -1,0 +1,30 @@
+node_modules/
+.env
+.DS_Store
+/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Folder build/cache
+build/
+dist/
+.cache/
+
+# File konfigurasi IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# File sistem
+Thumbs.db
+Desktop.ini
+
+# File log
+error.log
+bot.log
+
+# File sementara
+*.tmp
+*.bak
